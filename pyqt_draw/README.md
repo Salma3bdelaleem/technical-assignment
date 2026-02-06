@@ -26,13 +26,16 @@ The focus of this project is clarity, simplicity, and clean object-oriented desi
 ---
 
 ## Project Structure
+
+```
 pyqt_draw/
 │
-├── main.py # Application entry point
-├── main_window.py # Main window and UI controls
-├── canvas.py # Custom drawing canvas
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
+├── main.py            # Application entry point
+├── main_window.py     # Main window and UI controls
+├── canvas.py          # Custom drawing canvas
+├── README.md          # Project documentation
+└── requirements.txt   # Dependencies
+```
 
 ---
 
