@@ -36,8 +36,13 @@ The AI module was developed using the **3W Dataset**.
 Dataset Link (Kaggle):  
 https://www.kaggle.com/datasets/afrniomelo/3w-dataset
 
-Full AI Documentation (Google Drive):  
-https://drive.google.com/file/d/1Z7zIXH2XHsD9822ax5IckkWMh1rhhbrS/view?usp=sharing
+## Full AI Documentation
+
+<p>
+  <a href="https://drive.google.com/file/d/1Z7zIXH2XHsD9822ax5IckkWMh1rhhbrS/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN-AI_DOCUMENTATION-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
 
 The documentation explains:
 
