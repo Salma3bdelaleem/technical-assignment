@@ -5,20 +5,23 @@ This project is divided into four main parts covering the desktop interface, AI 
 ---
 
 ## Project Structure
+
+```
 ├── pyqt_draw/
 ├── AI/
-│ ├── 3w_dataset_part1.ipynb
-│ ├── 3w_dataset_part2.ipynb
-│ └── cleaned_final_dataset.csv
+│   ├── 3w_dataset_part1.ipynb
+│   ├── 3w_dataset_part2.ipynb
+│   └── cleaned_final_dataset.csv
 ├── deployment/
-│ ├── main.py
-│ ├── model.joblib
-│ ├── requirements.txt
-│ └── interface/
-│ ├── main.py
-│ ├── config.py
-│ └── api_client .py 
----
+│   ├── main.py
+│   ├── model.joblib
+│   ├── requirements.txt
+│   └── interface/
+│       ├── main.py
+│       ├── config.py
+│       └── api_client.py
+```
+
 
 Folder: `pyqt_draw`
 
