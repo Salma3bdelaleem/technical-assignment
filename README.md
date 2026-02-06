@@ -15,13 +15,12 @@ This project is divided into four main parts covering the desktop interface, AI 
 ├── deployment/
 │   ├── main.py
 │   ├── model.joblib
-│   ├── requirements.txt
-│   └── interface/
-│       ├── main.py
-│       ├── config.py
-│       └── api_client.py
+│   └── requirements.txt
+├── interface/
+│   ├── main.py
+│   ├── config.py
+│   └── api_client.py
 ```
-
 
 Folder: `pyqt_draw`
 
